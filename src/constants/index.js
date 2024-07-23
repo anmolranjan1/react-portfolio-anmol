@@ -12,7 +12,7 @@ export const EXPERIENCES = [
     year: "June 2024 - July 2024",
     role: "iOS Developer Intern",
     company: "Infosys, Mysore",
-    description: `Contributed to the development of a Training and Learning Management System (TLMS) iOS Application. Utilized Swift, Xcode, UIKit, SwiftUI, Core Data, and design patterns for app development. Engaged in Agile project management using Jira.`,
+    description: `Contributed to the development of a Training and Learning Management System (TLMS) iOS Application. Utilized Swift, Xcode, SwiftUI, Core Data, and design patterns for app development. Engaged in Agile project management using Jira.`,
     technologies: ["Swift", "Xcode", "SwiftUI", "Core Data"],
   },
 ];
@@ -30,7 +30,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Collaboratively designed and implemented an iOS app featuring user authentication, real-time ML image analysis, and a game list for therapeutic exercises.",
-    technologies: ["Swift", "Xcode", "UIKit", "SwiftUI", "Core Data"],
+    technologies: ["Swift", "Xcode", "UIKit", "Core Data"],
   },
   {
     title: "Flight Delay Prediction Using Machine Learning",
@@ -49,7 +49,5 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Your Address",
-  phoneNo: "+91-7485864844",
   email: "anmolranjan1@gmail.com",
 };
