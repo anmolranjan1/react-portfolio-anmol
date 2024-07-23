@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile software developer wit
 
 export const EXPERIENCES = [
   {
-    year: "June 2024 - July 2024",
+    year: "24 June 2024 - 19 July 2024",
     role: "iOS Developer Intern",
     company: "Infosys, Mysore",
     description: `Contributed to the development of a Training and Learning Management System (TLMS) iOS Application. Utilized Swift, Xcode, SwiftUI, Core Data, and design patterns for app development. Engaged in Agile project management using Jira.`,
