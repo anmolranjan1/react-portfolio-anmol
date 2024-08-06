@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-2.jpg";
 
 export const HERO_CONTENT = `I am a passionate software developer with a knack for crafting robust and scalable applications. With hands-on experience, I have honed my skills in various technologies including Swift, Python, and C++. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -45,6 +46,13 @@ export const PROJECTS = [
     description:
       "Designed and deployed a sentiment analysis model to classify news headlines.",
     technologies: ["Python", "NLP", "Machine Learning"],
+  },
+  {
+    title: "Social Threads App",
+    image: project5,
+    description:
+      "Implemented features for social networking, including authentication, posts, comments, likes, and real-time notifications. Utilized Swift, SwiftUI, and Firebase Firestore for backend services.",
+    technologies: ["Swift", "SwiftUI", "Firebase Firestore"],
   },
 ];
 
