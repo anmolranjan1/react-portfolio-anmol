@@ -1,5 +1,5 @@
 import logo from "../assets/anmolRanjanLogo.png";
-import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram, FaDribbble } from "react-icons/fa";
 
 const Navbar = () => {
   return (
@@ -16,6 +16,9 @@ const Navbar = () => {
             </a>
             <a href="https://www.instagram.com/anmol_ranjan_srivastava" target="_blank" rel="noopener noreferrer">
                 <FaInstagram />
+            </a>
+            <a href="https://dribbble.com/anmolranjan1" target="_blank" rel="noopener noreferrer">
+                <FaDribbble />
             </a>
         </div>
     </nav>
