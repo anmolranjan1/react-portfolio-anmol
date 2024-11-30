@@ -10,8 +10,16 @@ export const ABOUT_TEXT = `I am a dedicated and versatile software developer wit
 
 export const EXPERIENCES = [
   {
+    year: "25th November 2024 - Present",
+    role: "Software Developer Trainee",
+    company: "Appvin Technologies Pvt. Ltd.",
+    description:
+      "Working as a Software Developer Trainee in the IT Front-End Development department. Engaging in training sessions and project development to enhance skills in front-end technologies, Flutter, and software development processes. Collaborating with the team to deliver high-quality solutions.",
+    technologies: ["HTML", "CSS", "JavaScript", "React", "Flutter"],
+  },
+  {
     year: "24 June 2024 - 19 July 2024",
-    role: "Software Developer",
+    role: "iOS App Developer",
     company: "Infosys, Mysore",
     description: `Contributed to the development of a Training and Learning Management System (TLMS) iOS Application. Utilized Swift, Xcode, SwiftUI, Core Data, and design patterns for app development. Engaged in Agile project management using Jira.`,
     technologies: ["Swift", "Xcode", "SwiftUI", "Core Data"],
